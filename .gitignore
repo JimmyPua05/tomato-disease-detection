@@ -1,0 +1,9 @@
+dataset/
+*.zip
+*.tar.gz
+models/
+*.keras
+*.h5
+__pycache__/
+.ipynb_checkpoints/
+.gradio/
